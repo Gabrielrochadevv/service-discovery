@@ -1,4 +1,4 @@
-package br.com.fiap.service_discovery;
+package br.com.service_discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
